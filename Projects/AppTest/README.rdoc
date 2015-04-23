@@ -1,25 +1,31 @@
-== README
+== AppTest
+
+=== Una aplicación para la realización de test online.
+
+La finalidad de este proyecto es que se pueda realizar test online, dónde el usuario pueda cargar una lista de preguntas y respuestas, indicar cuales es o son las verdaderas para cada pregunta, y pueda compartir ya sea por email o redes sociales.
+
+---
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Especificaciones para el proyecto:
 
-* Ruby version
+* Ruby version =>
 
-* System dependencies
+* System dependencies =>
 
-* Configuration
+* Configuration =>
 
-* Database creation
+* Database creation =>
 
-* Database initialization
+* Database initialization =>
 
-* How to run the test suite
+* How to run the test suite =>
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.) =>
 
-* Deployment instructions
+* Deployment instructions =>
 
 * ...
 
